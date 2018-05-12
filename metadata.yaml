@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '43487'
     url: http://www.gutenberg.org/2009/agents/43487
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36154#The-Evanston-Colloquium-Lectures-on-Mathematics--13-Delivered-From-Aug.-28-to-Sept.-9-1893-Be_
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2011-05-18'
 gutenberg_type: Text
