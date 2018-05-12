@@ -1,0 +1,47 @@
+_repo: The-Evanston-Colloquium-Lectures-on-Mathematics--13-Delivered-From-Aug.-28-to-Sept.-9-1893-Be__36154
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Klein, Felix
+    aliases:
+    - Klein, Christian Felix
+    - Klein, F. (Felix)
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '9227'
+    url: http://www.gutenberg.org/2009/agents/9227
+    wikipedia: http://de.wikipedia.org/wiki/Felix_Klein
+  editor:
+    agent_name: Ziwet, Alexander
+    alias: Ziwet, A. (Alexander)
+    birthdate: 1853
+    deathdate: 1928
+    gutenberg_agent_id: '43487'
+    url: http://www.gutenberg.org/2009/agents/43487
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2011-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Mathematics'
+tableOfContents: Clebsch -- Sophus Lie -- On the real shape of algebraic curves and
+  surfaces -- Theory of functions and geometry -- On the mathematical character of
+  space-intuition, and the relation of pure mathematics to the applied sciences --
+  The transcendency of the numbers e and π [pi] -- Ideal numbers -- The solution of
+  higher algebraic equations -- On some recent advances in hyperelliptic and Abelian
+  functions -- The most recent researches in non-Euclidean geometry -- The study of
+  mathematics at Göttingen -- The development of mathematics at the German universities.
+title: "The Evanston Colloquium: Lectures on Mathematics\r\nDelivered From Aug. 28\
+  \ to Sept. 9, 1893 Before Members of the Congress of Mathematics Held in Connection\
+  \ with the World's Fair in Chicago"
+url: http://www.gutenberg.org/ebooks/36154
