@@ -36,6 +36,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QA'
 - !lcsh 'Mathematics'
+- GITenberg
 tableOfContents: Clebsch -- Sophus Lie -- On the real shape of algebraic curves and
   surfaces -- Theory of functions and geometry -- On the mathematical character of
   space-intuition, and the relation of pure mathematics to the applied sciences --
